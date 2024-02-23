@@ -37,16 +37,16 @@ canvas + * {
 }
 
 .progress {
-	margin: 1.5em;
+	margin: 4em;
 	border: 1px solid white;
-	width: 30vw;
+	width: 50vw;
 	display: none;
 }
 
 .progress .full {
 	margin: 2px;
 	background: white;
-	height: 1em;
+	height: 2em;
 	transform-origin: top left;
 }
 
